@@ -4,7 +4,9 @@ This is the fourth challenge of the Ignite Bootcamp: an online clothing store th
 
 ## Interface
 
-TO-DO
+<img src="https://github.com/victoriamartins/ignite-shop/blob/main/src/assets/home.jpg" width="500px"/>
+<img src="https://github.com/victoriamartins/ignite-shop/blob/main/src/assets/cart.jpg" width="300px"/>
+<img src="https://github.com/victoriamartins/ignite-shop/blob/main/src/assets/success.jpg" width="500px"/>
 
 ## Tools
 
